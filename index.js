@@ -1,1 +1,1 @@
-module.exports = System._nodeRequire ? System._nodeRequire('events-browserify') : require('events');
+module.exports = System._nodeRequire ? System._nodeRequire('events') : require('events-browserify');

@@ -2,7 +2,6 @@
   "main": "./events.js",
   "name": "jspm-nodelibs-events",
   "version": "0.2.0",
-  "registry": "github",
   "map": {
     "./events.js": {
       "node": "@node/events"
